@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="chaveNome">Nome Teste</string>
+    <string name="chaveIdade">30</string>
+    <string name="chaveTelefone">11111111111111</string>
+</map>
